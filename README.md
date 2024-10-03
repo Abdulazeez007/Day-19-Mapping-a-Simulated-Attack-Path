@@ -6,6 +6,8 @@ Today, we’re going to walk through a simulated attack plan that targets a Wind
 
 ## Attack Diagram
 
+![Alt text](https://raw.githubusercontent.com/Virus192/Day-19-Mapping-a-Simulated-Attack-Path/refs/heads/main/Images/Copy%20of%20Copy%20of%20MYDFIR-C%26C.drawio.png)
+
 ### Phase 1: Initial Access — The Brute Force Entry
 Our simulation begins with the Initial Access phase. We’ll be leveraging Kali Linux to perform an RDP brute-force attack against the target Windows Server in this controlled scenario. The goal here is to understand how attackers might gain access by cracking login credentials. With any luck, we’ll simulate a successful authentication and access to the machine.
 
