@@ -1,6 +1,6 @@
 # Day-19-Mapping-a-Simulated-Attack-Path
 
-When studying cybersecurity and penetration testing, it’s essential to understand how attacks can be structured in order to better defend against them. An attack diagram provides clarity, outlining each phase of a simulated attack, helping to ensure every step flows smoothly and ethically in a controlled environment.
+Understanding how an attack progresses can greatly enhance our ability to defend and respond effectively. Let me walk you through the phases we covered: An attack diagram provides clarity, outlining each phase of a simulated attack, helping to ensure every step flows smoothly and ethically in a controlled environment.
 
 Today, we’re going to walk through a simulated attack plan that targets a Windows Server, starting from gaining initial access and moving through to establishing a C2 connection and exfiltrating data. For this demonstration, we’ll use the attack diagram created with draw.io, which was a key tool at the start of our project.
 
